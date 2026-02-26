@@ -1,0 +1,28 @@
+#top h4 {
+    color: grey;
+    font-size: 14px;
+}
+#top strong {
+    color: white;
+    font-size: 14px;
+}
+
+#center-section {
+  height: 100vh; /* Ensures the row takes up the full screen height to center vertically */
+}
+
+#center-text-box {
+  background-color: rgba(51, 51, 51, 0.6);
+  color: white;
+  padding: 20px;
+}
+
+body {
+  background: url("https://courses.ics.hawaii.edu/ics314s26/morea/ui-frameworks/wod-maui-brewing-slider-kailua.jpg") no-repeat center center fixed;
+  background-size: cover; /* This helps ensure the image fills the screen */
+}
+
+#footer h4{
+    color: white;
+
+}
